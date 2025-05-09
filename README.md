@@ -84,6 +84,52 @@
 > **Phase 3**: Real-time updates and UI Enhancements
 
 ---
+---model class---
+admin class :
+			admin id;
+			admin name;
+			password ;
+			admin details;
+
+	Delar class :
+			Delar id;
+			Delar name;
+			products ;
+			Delar details;
+			
+	
+	product class :
+	
+			product id;
+			product name ;
+			product price;
+			product details;
+			
+	customer class:
+			customer id;
+			customer name;
+			customer address;
+			cutomer mobile;
+			costomer pincode;
+
+	payment class:
+			
+			card name;
+			cardnumber;
+			card pin;
+			//paymentcheck;
+			
+	delivery :
+			
+			product id;
+			product name ;
+			product price;
+			customer id;
+			customer name;
+			customer address;
+			cutomer mobile;
+			costomer pincode;**
+		
 
 ## 📧 Contact
 
